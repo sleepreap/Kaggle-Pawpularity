@@ -17,7 +17,7 @@ Forward selection is a type of feature selection technique used primarily in sta
 for model construction, improving model performance by reducing overfitting and enhancing generalization.  Using forward selection, we shortlisted 10 models of the pre-trained transformer models available in the Timm library that give the best results.
 From an initial pool of 10 shortlisted models, the forward selection process was applied iteratively to identify the best combination of models that optimized performance.
 The best-performing combination was achieved with 5 models. Adding additional models beyond this point not only failed to improve performance but also led to a slight decline. 
-![Forward-selection](figs/forward_selection.PNG)
+![Forward-selection](figs/forwards_selection.PNG)
 ![Forward-selection](figs/num_models.PNG)
 
 ### Emsemble Learning
