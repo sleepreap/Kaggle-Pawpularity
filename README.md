@@ -37,6 +37,8 @@ Further details on our solution can be found in the [report](https://github.com/
 - [Beit](https://arxiv.org/abs/2106.08254)
 - [Vit](https://arxiv.org/abs/2010.11929)
 
+Note that the timm library used is 1.0.9.
+
 # Results 
 We can only compare with the leaderboard score as the competition is already over. We managed to get between 186th and 187th place, which is top 5.29%
 
