@@ -9,7 +9,7 @@ This is our machine learning project where we build a predictive machine learnin
 ### Cross-Validation
 We use 5-fold Cross-Validation to train and validate models. The dataset is divided into 5 subsets, using a unique fold as a validation set and the remaining 4 as
 the training set.  Using these subsets, we train 5 fold-models of the same architecture. 
-![Cross-validation](figs/cross_validation.png)
+![Cross-validation](figs/cross_validation.PNG)
 
 ### Forward Selection
 
@@ -17,8 +17,8 @@ Forward selection is a type of feature selection technique used primarily in sta
 for model construction, improving model performance by reducing overfitting and enhancing generalization.  Using forward selection, we shortlisted 10 models of the pre-trained transformer models available in the Timm library that give the best results.
 From an initial pool of 10 shortlisted models, the forward selection process was applied iteratively to identify the best combination of models that optimized performance.
 The best-performing combination was achieved with 5 models. Adding additional models beyond this point not only failed to improve performance but also led to a slight decline. 
-![Forward-selection](figs/forward_selection.png)
-![Forward-selection](figs/num_models.png)
+![Forward-selection](figs/forward_selection.PNG)
+![Forward-selection](figs/num_models.PNG)
 
 ### Emsemble Learning
 
@@ -40,7 +40,7 @@ Further details on our solution can be found in the [report](https://github.com/
 # Results 
 We can only compare with the leaderboard score as the competition is already over. We managed to get between 186th and 187th place, which is top 5.29%
 
-![Results](figs/results.png)
+![Results](figs/results.PNG)
 
 ## Authors
 [Royce Teng](https://github.com/sleepreap) & [Yeek Sheng](https://github.com/Yeek020407) & [Yeek Sheng](https://github.com/Yeek020407)
