@@ -3,7 +3,7 @@ This is our machine learning project where we build a predictive machine learnin
 
 
 ## Authors
-[Armando Fortes](https://github.com/atfortes) & [David Pissarra](https://github.com/davidpissarra)
+[Royce Teng](https://github.com/sleepreap) & [Yeek Sheng](https://github.com/Yeek020407) & [Yeek Sheng](https://github.com/Yeek020407)
 
 ## Overview
 
