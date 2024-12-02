@@ -43,4 +43,4 @@ We can only compare with the leaderboard score as the competition is already ove
 ![Results](figs/results.PNG)
 
 ## Authors
-[Royce Teng](https://github.com/sleepreap) & [Yeek Sheng](https://github.com/Yeek020407) & [Yeek Sheng](https://github.com/Yeek020407)
+[Royce Teng](https://github.com/sleepreap) & [Oi Yeek Sheng](https://github.com/Yeek020407) & [Teo Jia Yun](https://github.com/teojiayun)
